@@ -28,7 +28,7 @@ No build tool is required. Open `home.html` directly, or serve the folder with a
 
 ## Customize
 
-1. Replace `P` in the logo with your own logo/initial.
+1. Replace `S` in the logo with your own logo/initial.
 2. Edit the text in each HTML page.
 3. Replace the three SVG project previews with screenshots of your actual projects.
 4. Change each `https://example.com` project URL.
