@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Minimal personal portfolio website.">
+  <title>Home — Portfolio</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script src="assets/js/main.js" defer></script>
+</head>
+<body data-page="home">
+  <header class="site-header">
+    <button class="menu-toggle" type="button" aria-label="Open navigation" aria-controls="site-nav" aria-expanded="false">
+      <span></span><span></span><span></span>
+      <span class="tooltip">Menu</span>
+    </button>
+
+    <a class="brand" href="home.html" aria-label="Go to Home">
+      <span class="brand-mark">S</span>
+      <span class="tooltip">Home</span>
+    </a>
+  </header>
+
+  <aside class="nav-drawer" id="site-nav" aria-hidden="true">
+    <div class="nav-inner">
+      <nav class="icon-nav" aria-label="Main navigation">
+        <a href="home.html" data-page-link="home" aria-label="Home">
+          <span class="nav-icon">⌂</span><span class="tooltip">Home</span>
+        </a>
+        <a href="about.html" data-page-link="about" aria-label="About">
+          <span class="nav-icon">○</span><span class="tooltip">About</span>
+        </a>
+        <a href="work.html" data-page-link="work" aria-label="Work">
+          <span class="nav-icon">◇</span><span class="tooltip">Work</span>
+        </a>
+        <a href="contact.html" data-page-link="contact" aria-label="Contact">
+          <span class="nav-icon">↗</span><span class="tooltip">Contact</span>
+        </a>
+      </nav>
+      <p class="nav-footer">© 2026</p>
+    </div>
+  </aside>
+  <div class="nav-backdrop" data-close-nav></div>
+
+  <main class="page page-home">
+    <section class="hero container">
+      <p class="eyebrow reveal">Independent Learner</p>
+      <h1 class="display reveal">I build simple things<br><em>with purpose.</em></h1>
+      <p class="lead reveal">A minimal portfolio for thoughtful digital work, clean interfaces, and useful experiences.</p>
+      <div class="hero-actions reveal">
+        <a class="text-link" href="work.html">Explore my work <span>↗</span></a>
+        <a class="text-link muted-link" href="about.html">More about me <span>→</span></a>
+      </div>
+    </section>
+
+    <section class="home-intro container">
+      <div class="section-line"></div>
+      <div class="split reveal">
+        <p class="section-kicker">01 / Direction</p>
+        <div>
+          <h2>Make useful work.<br>Keep it clear.</h2>
+          <p>I care about clarity, performance, and details that make a product feel natural to use. My goal is to turn ideas into focused digital experiences without unnecessary complexity.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

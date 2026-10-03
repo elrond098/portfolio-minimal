@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#171715"/>
+<rect x="48" y="48" width="1104" height="624" rx="8" fill="#0a0a0a" stroke="#555550"/>
+<rect x="82" y="84" width="190" height="26" rx="4" fill="#d7d7d2"/>
+<rect x="82" y="142" width="1036" height="1" fill="#555550"/>
+<rect x="82" y="182" width="245" height="145" rx="5" fill="#171715" stroke="#555550"/>
+<rect x="351" y="182" width="245" height="145" rx="5" fill="#171715" stroke="#555550"/>
+<rect x="620" y="182" width="245" height="145" rx="5" fill="#171715" stroke="#555550"/>
+<rect x="889" y="182" width="229" height="145" rx="5" fill="#171715" stroke="#555550"/>
+<polyline points="100,548 210,480 330,515 455,410 575,445 700,360 830,405 955,300 1090,335" fill="none" stroke="#f7f7f5" stroke-width="4"/>
+<line x1="100" y1="580" x2="1090" y2="580" stroke="#555550"/>
+<text x="82" y="385" fill="#999994" font-family="Arial" font-size="18">OVERVIEW</text>
+</svg>

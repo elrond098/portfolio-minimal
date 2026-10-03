@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#0a0a0a"/>
+<circle cx="1040" cy="88" r="18" fill="none" stroke="#999994"/>
+<line x1="80" y1="80" x2="1120" y2="80" stroke="#555550"/>
+<text x="80" y="170" fill="#999994" font-family="Arial" font-size="20" letter-spacing="4">PORTFOLIO / 2026</text>
+<text x="80" y="275" fill="#f7f7f5" font-family="Arial" font-size="82" font-weight="500">Simple.</text>
+<text x="80" y="360" fill="#999994" font-family="Georgia" font-size="82">Useful.</text>
+<line x1="80" y1="440" x2="1120" y2="440" stroke="#555550"/>
+<text x="80" y="500" fill="#999994" font-family="Arial" font-size="18">DESIGN · CODE · DETAIL</text>
+<text x="80" y="610" fill="#555550" font-family="Arial" font-size="15">A lightweight monochrome web experience</text>
+</svg>
