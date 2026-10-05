@@ -6,7 +6,7 @@ Static, lightweight portfolio website using only HTML, CSS, JavaScript, and SVG 
 
 ```text
 portfolio-minimal/
-├── home.html
+├── index.html
 ├── about.html
 ├── work.html
 ├── contact.html
